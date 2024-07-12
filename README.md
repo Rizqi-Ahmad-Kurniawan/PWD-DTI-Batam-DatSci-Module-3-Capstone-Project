@@ -8,7 +8,7 @@
 ## Presentation (visual overview)
 - California Housing Price ML Model Presentation Link: 
 - California Housing Price ML Model - Google Cloud Platform - Link:
-- California Housing Price ML Model Medium (article) Link: 
+- ML Model Medium (article) Link: https://medium.com/@rizqikurniawan233/from-data-to-deployment-a-brief-guide-to-building-your-first-machine-learning-model-b1967bf89e5a 
 
 ## Quick Overview
 - Capstone project for learning module 3 of Purwadhika DTI Data Science Program. 
