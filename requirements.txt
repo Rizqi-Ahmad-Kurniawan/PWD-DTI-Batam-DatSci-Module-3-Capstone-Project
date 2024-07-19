@@ -1,0 +1,19 @@
+## requirement
+pip
+jupyter
+db-dtypes
+pandas
+scikit-learn
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+# pandas 
+# scikit-learn == 1.2.2
+# numpy >=1.15.0, <=1.24.0
+
+
+numpy == 1.26.4
+pandas == 2.1.4
+scikit-learn == 1.2.2
+xgboost == 2.0.3
