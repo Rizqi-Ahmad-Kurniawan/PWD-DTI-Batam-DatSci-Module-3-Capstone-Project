@@ -14,7 +14,8 @@
 - Capstone project for learning module 3 of Purwadhika DTI Data Science Program. 
 - The project is a Machine Learning Model that is trained on a dataset that contains California's Housing Price information (and complementary variables) from the 1990 California census 
 
-![image.png](attachment:image.png) 
+![image](https://github.com/user-attachments/assets/7d951ee3-0d78-486f-82e9-6e1e9a182a06)
+
 
 ## General Overview
 
